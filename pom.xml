@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-    <build>
+      <build>
     <finalName>${project.name}-testing</finalName>
   <plugins>
     <plugin>
@@ -28,7 +28,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.github.App.class</mainClass>
+            <mainClass>com.github.App</mainClass>
           </manifest>
         </archive>
       </configuration>
