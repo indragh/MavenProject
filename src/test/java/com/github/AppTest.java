@@ -38,7 +38,7 @@ public class AppTest
      */
     public void testApp()
     {
-        //assertTrue( true );
-        fail ("Forcible Failure");
+        assertTrue( true );
+        //fail ("Forcible Failure");
     }
 }
