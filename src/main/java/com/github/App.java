@@ -10,7 +10,7 @@ public class App
     public static void main( String[] args )
     {
     	//Comment
-        System.out.println( "Hello World--Be Happy" );
+        System.out.println( "Hello World--Don't Worry Be Happy" );
     }
 }
 
